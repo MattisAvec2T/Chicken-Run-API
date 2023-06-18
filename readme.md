@@ -33,6 +33,7 @@ node index
 
 
 ## Paramètres :
+### URI
 `:id` correspond à l'id généré automatiquement par MongoDB (`"_id"`)
 
 ### Requêtes POST et PUT
