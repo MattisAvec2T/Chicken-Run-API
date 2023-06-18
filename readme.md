@@ -1,4 +1,3 @@
-
 # Chicken Runner API
 
 ### Description
@@ -10,13 +9,16 @@ Cette API en JavaScript (Node.js) permet de gérer des informations sur les poul
 * ExpressJS
 * MongoDB
 
-## Installation des dépendances
-
+## Installation
+### 1 - Clone du reposiory
+```shell
+git clone https://github.com/LeBenjos/Projet-RS-HETIC.git
+```
+### 2 - Installation des dépendances
 ```shell
 npm install dotenv express mongoose
 ```
-
-## Lancement de l'API
+### 3 - Lancement de l'API
 ```shell
 node index
 ```
