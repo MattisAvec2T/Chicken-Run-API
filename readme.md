@@ -37,7 +37,7 @@ node index
 `:id` correspond à l'id généré automatiquement par MongoDB (`"_id"`)
 
 ### Requêtes POST et PUT
-Ces requêtes nécessites des paramètres supplémentaires transmises par le body de la requête.  
+Ces requêtes nécessites des paramètres supplémentaires transmis par le body de la requête.  
 
 Voici un exemple :
 
