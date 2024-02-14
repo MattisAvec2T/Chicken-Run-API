@@ -12,7 +12,7 @@ Cette API en JavaScript (Node.js) permet de gérer des informations sur les poul
 ## Installation
 ### 1 - Clone du reposiory
 ```shell
-git clone https://github.com/LeBenjos/Projet-RS-HETIC.git
+git clone https://github.com/MattisAvec2T/Chicken-Run-API.git
 ```
 ### 2 - Installation des dépendances
 ```shell
